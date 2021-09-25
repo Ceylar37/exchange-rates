@@ -11,29 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32036e2b-e355-4465-adaf-3c9ffe20e839" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.849f8c9d.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.849f8c9d.chunk.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/runtime-main.55b214d0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/runtime-main.55b214d0.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/electron.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/electron.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/preload.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/preload.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/2.786ae0dd.chunk.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/css/2.786ae0dd.chunk.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.afd7172b.chunk.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/css/main.afd7172b.chunk.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.2f4c2ddb.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/js/2.2f4c2ddb.chunk.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.2f4c2ddb.chunk.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/js/2.2f4c2ddb.chunk.js.LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.764e9fcc.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.764e9fcc.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.a2b43dd2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.a2b43dd2.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +89,7 @@
       <workItem from="1632482332479" duration="1761000" />
       <workItem from="1632559826154" duration="9197000" />
       <workItem from="1632569835968" duration="2549000" />
+      <workItem from="1632575435048" duration="22000" />
     </task>
     <servers />
   </component>
