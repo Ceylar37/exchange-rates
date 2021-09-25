@@ -5,9 +5,9 @@ import {useDispatch} from "react-redux"
 import {AppDispatch} from "./store"
 import {requestCurrenciesAndPull} from "./store/reducers/currency"
 import {Col, Row, Spin} from "antd"
-import CurrencyForm from "./Components/CurrencyForm/CurrencyForm"
-import CurrentCurrency from "./Components/CurrentCurrency/CurrentCurrency";
 import {useTypedSelector} from "./utils/useTypedSelector";
+import CurrencyForm from "./Components/CurrencyForm/CurrencyForm";
+import CurrentCurrency from "./Components/CurrentCurrency/CurrentCurrency";
 
 
 const App: React.FC = () => {
