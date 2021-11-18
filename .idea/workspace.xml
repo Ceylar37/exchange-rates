@@ -14,11 +14,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/2.786ae0dd.chunk.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/css/2.786ae0dd.chunk.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.afd7172b.chunk.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/css/main.afd7172b.chunk.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.2f4c2ddb.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/js/2.2f4c2ddb.chunk.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.2f4c2ddb.chunk.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/js/2.2f4c2ddb.chunk.js.LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.3ba73610.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.3ba73610.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/CurrencyForm/CurrencyForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/CurrencyForm/CurrencyForm.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +103,7 @@
       <workItem from="1632575435048" duration="22000" />
       <workItem from="1637237654144" duration="77000" />
       <workItem from="1637238221217" duration="612000" />
+      <workItem from="1637240065211" duration="841000" />
     </task>
     <servers />
   </component>
@@ -122,43 +124,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1632316857059">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1632316857059" />
-    <state x="883" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1632318907331">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="883" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1632318907331" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1632332118585">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1632332118585" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1632573709346">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1632573709346" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1632573709345">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1632573709345" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1632573709345">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1632573709345" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1632573709345">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1632573709345" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1632570467240">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1632570467240" />
-    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1632560816159">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1632560816159" />
   </component>
 </project>

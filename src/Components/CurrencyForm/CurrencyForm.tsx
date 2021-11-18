@@ -14,8 +14,6 @@ const CurrencyForm: React.FC<IProps> = ({currencies}) => {
 
     const dispatch = useDispatch<AppDispatch>()
 
-
-
     const onChangeHandler = (value: string) => {
         dispatch(currencyActions.setSelectedCurrency({country: value}))
     }
@@ -34,7 +32,6 @@ const CurrencyForm: React.FC<IProps> = ({currencies}) => {
                     } catch (e) {
                         return false
                     }
-
                 }}
             >
                 {currencies.map(currency =>
